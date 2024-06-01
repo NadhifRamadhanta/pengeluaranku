@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pengeluaranku</string>
+    <string name="app_description">Pengeluaranku is a mobile app designed to help users easily track their daily expenses. It allows users to upload receipt photos, which are analyzed using machine learning to predict total spending. The app simplifies expense tracking.</string>
+</resources>
